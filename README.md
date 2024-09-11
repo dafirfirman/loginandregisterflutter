@@ -1,2 +1,2 @@
-# loginandregisterflutter.io
+# loginandregisterflutter
 Login dan Register menggunakan flutter
